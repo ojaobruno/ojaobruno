@@ -2,7 +2,7 @@
 
 - 🌱 I'm new on the development world. 
 - 📚 I’m studying Python, Java, HTML and CSS. 
-- 🤔 I’m looking for help with knoledgement in programming. 
+- 🤔 I’m looking for help with knowledgement in programming. 
 - 😄 Pronouns: He/Him/His. 
 
 
